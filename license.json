@@ -1,0 +1,17 @@
+{
+  "TJR-GODMODE-001": {
+    "valid": true,
+    "plan": "developer",
+    "note": "Main dev license",
+    "expires": "2030-01-01",
+    "max_devices": 3
+  },
+
+  "TJR-USER-001": {
+    "valid": true,
+    "plan": "pro",
+    "note": "Test user",
+    "expires": "2026-01-01",
+    "max_devices": 1
+  }
+}
