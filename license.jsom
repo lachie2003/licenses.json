@@ -1,0 +1,15 @@
+{
+  "TJR-GODMODE-001": {
+    "valid": true,
+    "expires": "2026-12-31",
+    "note": "Main dev license",
+    "plan": "developer"
+  },
+
+  "DEMO-LICENSE-123": {
+    "valid": true,
+    "expires": "2026-01-01",
+    "note": "Demo key for testing",
+    "plan": "demo"
+  }
+}
